@@ -5,6 +5,7 @@ Developed an image captioning pipeline leveraging the Hugging Face Transformers 
 <img width=300 src="https://github.com/user-attachments/assets/df14f68b-d816-4a30-9bb0-fa4056e694bb">
 
 **Initial Caption Generated:** the image of a cat and a dog
+
 **Caption Generated after Fine-Tuning:** the image of tom and jerry from tom and jerry show
 
 
